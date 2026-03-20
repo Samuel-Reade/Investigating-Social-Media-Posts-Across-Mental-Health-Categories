@@ -14,7 +14,7 @@ This project investigates whether linguistic and sentiment-based features extrac
 ├── MH_Investigation_Code.Rmd
 ├── MH_Report.pdf
 ├── MH_Investigation_Presentation.pdf
-└── README.rmd
+└── README.md
 ```
 
 ---
