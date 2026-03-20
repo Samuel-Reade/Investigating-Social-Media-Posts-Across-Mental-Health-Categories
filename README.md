@@ -5,6 +5,19 @@ This project investigates whether linguistic and sentiment-based features extrac
 
 ---
 
+## Project Structure
+
+```
+├── data/
+├── figures/ 
+├── final_project.R 
+├── final_project.Rmd
+├── final_project.pdf 
+└── README.md
+```
+
+---
+
 ## Research Question
 Can linguistic and sentiment features extracted from social media posts be used to distinguish and predict different mental health categories?
 
@@ -136,14 +149,3 @@ This project demonstrates the potential of using text mining and machine learnin
 - caret  
 
 ---
-
-## Project Structure
-
-'''
-├── data/
-├── figures/ 
-├── final_project.R 
-├── final_project.Rmd
-├── final_project.pdf 
-└── README.md
-'''
