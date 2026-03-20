@@ -144,12 +144,20 @@ This project demonstrates the potential of using text mining and machine learnin
 - Language: R  
 
 ### Libraries
-- tidyverse  
-- tidytext  
-- ggplot2  
-- randomForest  
-- nnet  
-- topicmodels  
-- caret  
+- tidyverse
+- tidytext
+- textdata
+- stopwords
+- stringr
+- janitor
+- wordcloud
+- RColorBrewer
+- tidylo
+- ggwordcloud
+- topicmodels
+- broom
+- caret
+- nnet
+- randomForest
 
 ---
