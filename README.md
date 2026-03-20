@@ -8,7 +8,7 @@ This project investigates whether linguistic and sentiment-based features extrac
 ## Project Structure
 
 ```
-├── data/
+├── data.csv/
 ├── figures/ 
 ├── MH_Investigation.R 
 ├── MH_Investigation_Code.Rmd
