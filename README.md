@@ -12,7 +12,6 @@ https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-h
 ## Project Structure
 
 ```
-├── data.csv/
 ├── figures/ 
 ├── MH_Investigation.R 
 ├── MH_Investigation_Code.Rmd
