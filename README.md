@@ -10,10 +10,11 @@ This project investigates whether linguistic and sentiment-based features extrac
 ```
 ├── data/
 ├── figures/ 
-├── final_project.R 
-├── final_project.Rmd
-├── final_project.pdf 
-└── README.md
+├── MH_Investigation.R 
+├── MH_Investigation_Code.Rmd
+├── MH_Report.pdf
+├── MH_Investigation_Presentation.pdf
+└── README.rmd
 ```
 
 ---
